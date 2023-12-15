@@ -1,3 +1,5 @@
 # DSAlab
-assignments for FDS and DSA
-this is change
+
+Lab Assignments for FDS and DSA
+for Second Year Computer Engineering
+SPPU 
